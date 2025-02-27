@@ -44,11 +44,11 @@ This project implements a book recommendation system using machine learning tech
 - Improve recommendation accuracy using deep learning.
 
 ## Authors
-Caleb Scott
-Aarzo Patel
-Michael D'Alton
-Praneeth Vadrevu
-Puneeth Muthineni
+Caleb Scott,
+Aarzo Patel,
+Michael D'Alton,
+Praneeth Vadrevu,
+Puneeth Muthineni,
 Fasi Shaik
 
 ## License
