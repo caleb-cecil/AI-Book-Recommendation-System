@@ -43,8 +43,13 @@ This project implements a book recommendation system using machine learning tech
 - Develop a web-based interface for user interaction.
 - Improve recommendation accuracy using deep learning.
 
-## Author
+## Authors
 Caleb Scott
+Aarzo Patel
+Michael D'Alton
+Praneeth Vadrevu
+Puneeth Muthineni
+Fasi Shaik
 
 ## License
 This project was developed as part of coursework at the University of Massachusetts-Boston. Please refer to university policies regarding intellectual property and usage rights before redistribution.
